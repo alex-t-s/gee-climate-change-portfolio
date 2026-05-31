@@ -1,0 +1,2 @@
+system:index,data_source,decreased_area_pct,default_threshold_pct,increased_area_pct,mean_change_percentage_points,mean_hydroperiod_1984_2000,mean_hydroperiod_2001_2020,period_1,period_2,project,significant_trend_area_pct,.geo
+0,JRC Global Surface Water YearlyHistory,24.469107766221363,5,20.173870086918125,-0.19334890036564692,64.21233142765763,61.53930667366681,1984-2000,2001-2020,Everglades Hydroperiod Analysis,20.40725452730682,"{""type"":""MultiPoint"",""coordinates"":[]}"

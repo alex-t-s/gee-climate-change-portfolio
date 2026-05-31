@@ -1,0 +1,2 @@
+system:index,area_suitability_gte_70_pct,data_sources,model_note,project,statewide_max_suitability,statewide_mean_suitability,top_10_pct_suitability_zone_area_pct,.geo
+0,89.00022555673499,USGS SRTM DEM; TIGER/2018 boundaries,"Terrain-screening model based on slope, aspect, and elevation; does not include measured irradiance, land ownership, transmission access, or permitting constraints.",California Terrain-Based Solar Suitability,100.0,82.30080697950072,10.52657622238471,"{""type"":""MultiPoint"",""coordinates"":[]}"

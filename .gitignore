@@ -1,0 +1,26 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Large accidental downloads
+*.zip
+*.rar
+*.7z

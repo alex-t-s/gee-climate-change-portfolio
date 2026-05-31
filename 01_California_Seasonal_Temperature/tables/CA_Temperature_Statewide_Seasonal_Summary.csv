@@ -1,0 +1,5 @@
+system:index,anomaly_c,baseline_period,mean_temperature_c,season,state,target_year,.geo
+0,0.9521398355851157,1991-2020,7.0887730088935745,Winter,California,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,-0.28545632954836436,1991-2020,12.404280520864326,Spring,California,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,1.8577243168273407,1991-2020,25.390671380843546,Summer,California,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,0.7799465592587643,1991-2020,16.54341580189509,Fall,California,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
